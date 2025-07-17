@@ -7,7 +7,7 @@
 
 .tv {
   height: 20em;
-  padding: 1.5em;
+  padding: 1em;
   will-change: filter;
   transition: filter 300ms;
   filter: drop-shadow(0 0 2em #DA795C);

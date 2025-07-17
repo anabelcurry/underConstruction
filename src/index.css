@@ -20,6 +20,7 @@
 
 a {
   font-weight: 500;
+  margin: 1em;
   color: #B6BF8A;
   background: #595E64;
   text-decoration: inherit;
@@ -54,7 +55,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #DFDC6D;
 }
 button:focus,
 button:focus-visible {
