@@ -27,7 +27,7 @@ function App() {
         >
           <button>linkedin</button>
         </a>        <a 
-          href="mixcloud.com/anabelcurry" 
+          href="https://www.mixcloud.com/anabelcurry/" 
           target='_blank'
         >
           <button>music?</button>
